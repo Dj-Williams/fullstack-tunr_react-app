@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b9a107d-9ef9-4ccc-b5e9-8d25e7628333" name="Default Changelist" comment="First commit" />
+    <list default="true" id="9b9a107d-9ef9-4ccc-b5e9-8d25e7628333" name="Default Changelist" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tunr_react/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tunr_react/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +35,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tunr_react/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+            <state relative-caret-position="195">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <element signature="e#311#320#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,8 +121,8 @@
         <option value="$PROJECT_DIR$/manage.py" />
         <option value="$PROJECT_DIR$/tunr_react/Procfile" />
         <option value="$PROJECT_DIR$/tunr_react/views.py" />
-        <option value="$PROJECT_DIR$/tunr_react/urls.py" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/tunr_react/urls.py" />
         <option value="$PROJECT_DIR$/tunr_react/settings.py" />
       </list>
     </option>
@@ -141,11 +147,6 @@
             <path>
               <item name="tunr_react" type="b2602c69:ProjectViewProjectNode" />
               <item name="tunr_react" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tunr_react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tunr_react" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tunr_react" type="b2602c69:ProjectViewProjectNode" />
@@ -220,15 +221,16 @@
       <updated>1544108386892</updated>
       <workItem from="1544108391337" duration="1067000" />
       <workItem from="1544109545666" duration="489000" />
-      <workItem from="1544111020896" duration="3788000" />
+      <workItem from="1544111020896" duration="4243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5344000" />
+    <option name="totallyTimeSpent" value="5799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12804006" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -336,8 +338,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tunr_react/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        <state relative-caret-position="195">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#311#320#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
