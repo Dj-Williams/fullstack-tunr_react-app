@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="tunr_react_wdi18@localhost [2]" uuid="3895d8b9-d245-490e-aa43-eab8ca30c315">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/tunr_react_wdi18</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="User Data Source -" uuid="b6712398-bff8-4121-b479-42eff61eaa6a">
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>java.sql.Driver</jdbc-driver>
+    </data-source>
+  </component>
+</project>
